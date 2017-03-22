@@ -17,6 +17,9 @@ public class Lesson4 {
         String oldWorld = lesson4.concat("Hello", "World");
         System.out.println(oldWorld);
         System.out.println("Popofh");
+        System.out.println("Popofh");
+        System.out.println("Popofh");
+
         System.out.println(lesson4.replaceWorld(oldWorld));
         }
 }
