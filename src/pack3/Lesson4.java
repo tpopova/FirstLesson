@@ -12,12 +12,11 @@ public class Lesson4 {
         return oldStr.replace("World"," New World");
     }
 
-
-
     public static void main(String[] args) {
         Lesson4 lesson4 = new Lesson4();
         String oldWorld = lesson4.concat("Hello", "World");
         System.out.println(oldWorld);
+        System.out.println("Popofh");
         System.out.println(lesson4.replaceWorld(oldWorld));
         }
 }
